@@ -23,7 +23,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  IMAGE: ghcr.io/martinacousido/snippet-service
+  IMAGE: ghcr.io/ingdesis/snippet-service
 
 jobs:
   publicar-imagen:

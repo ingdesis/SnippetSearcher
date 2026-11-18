@@ -7,7 +7,7 @@
   Convenciones de código de Snippet Service (#88).
 
   Parte de la configuración de la librería PrintScript (config/checkstyle de
-  MartinaCousido/PrintScript), con un solo cambio: acá se indenta con tabs,
+  ingdesis/PrintScript), con un solo cambio: acá se indenta con tabs,
   como generó Spring Initializr, así que no está FileTabCharacter. No hay
   formateador (Spotless): Checkstyle mira cómo se llaman las cosas y qué
   construcciones son un error probable, no el formato.
